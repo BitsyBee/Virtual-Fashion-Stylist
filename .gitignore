@@ -1,0 +1,24 @@
+# React
+node_modules
+dist
+build
+.next
+
+# Python
+venv
+__pycache__
+*.pyc
+
+# Environment files
+.env
+
+# Mac
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code
+.vscode
